@@ -1,0 +1,15 @@
+{
+    "name": "Display Row Player",
+    "author": "Florian Wesch <fw@info-beamer.com>",
+    "desc": "A video wall content player for creating content across multiple screens arranged in a row",
+    "repository": "https://github.com/info-beamer/package-row-player",
+    "platforms": ["pi/epoch-1", "pi/epoch-2"],
+    "offline": {
+        "support": "no",
+        "info": "Requires precise system time to sync across multiple displays"
+    },
+    "nesting": {
+        "parents": ["top-level"],
+        "childs": []
+    }
+}
