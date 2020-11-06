@@ -1,3 +1,5 @@
+[![Import](https://cdn.infobeamer.com/s/img/import.png)](https://info-beamer.com/use?url=https://github.com/info-beamer/package-row-player)
+
 # Playing content across multiple screens arranged in a row
 
 This package allows you to control screens arranged in a horizontal row.
