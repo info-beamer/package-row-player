@@ -108,5 +108,34 @@
             [105, "Wait around 120 seconds"]
         ],
         "default": 0
+    },
+    {
+        "title": "Forced output size",
+        "type": "section",
+        "intro": "If any value is non-zero, use to place content within the given pixel coordinates on each screen instead of using the native resolution. This can be useful if each screen is a video wall controller that needs to crop a specified section from the full output."
+    }, {
+        "title": "x1",
+        "ui_width": 3,
+        "name": "x1",
+        "type": "integer",
+        "default": 0
+    }, {
+        "title": "y1",
+        "ui_width": 3,
+        "name": "y1",
+        "type": "integer",
+        "default": 0
+    }, {
+        "title": "x2",
+        "ui_width": 3,
+        "name": "x2",
+        "type": "integer",
+        "default": 0
+    }, {
+        "title": "y2",
+        "ui_width": 3,
+        "name": "y2",
+        "type": "integer",
+        "default": 0
     }]
 }
